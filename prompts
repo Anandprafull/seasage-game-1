@@ -1,0 +1,152 @@
+Prompts: 
+- Garbages: Could you generate me the image asset of a {garbage} for the game, on a white background? The image should be in a simple retro-pixel style.
+- Fish: Could you generate me the image asset of a {fish} for the game, on a white background? The image should be in a simple retro-pixel style.
+
+
+Plastic waste in the oceans and seas is a significant environmental concern. Various types of plastic waste are commonly found, including:
+
+- Plastic Bags: These are lightweight and easily carried by wind and water into the ocean. They pose a risk to marine animals, who often mistake them for food.
+
+- Bottles and Containers: Plastic bottles and containers from beverages, household cleaners, and personal care products are frequently found in marine environments.
+
+- Microplastics: These are tiny plastic particles (less than 5mm in size) that result from the breakdown of larger plastic items. They are often ingested by marine life and can enter the food chain.
+
+- Fishing Gear: Lost or discarded fishing nets, lines, and traps, often referred to as ghost gear, can entangle marine animals and damage coral reefs.
+
+- Food Packaging: Items like snack wrappers, food containers, and plastic cutlery are commonly found in the ocean.
+
+- Straws and Stirrers: These small plastic items are often not recycled and can end up in marine ecosystems, where they can be harmful to wildlife.
+
+- Plastic Caps and Lids: Often separated from their bottles and containers, these items are frequently found in ocean cleanups.
+
+- Personal Care Products: Microbeads, tiny plastic particles used in exfoliating body washes, facial scrubs, and toothpaste, can pass through water treatment systems and end up in the ocean.
+
+- Plastic Films: Thin films from plastic wraps and other packaging materials.
+
+- Polystyrene Foam (Styrofoam): Used in packaging, cups, plates, and take-out containers, it breaks down into small pieces and is difficult to clean up.
+
+These plastics not only cause physical harm to marine life but also introduce toxic pollutants into the marine ecosystem. Efforts to reduce plastic waste include improving waste management systems, promoting biodegradable materials, recycling, and public awareness campaigns.
+
+
+Animals
+- jellyfish
+- seal
+- coral fish: parrot, clown
+- whale
+- great white shark
+- hammer shark
+- whale shark
+- moon fish
+- tuna fish
+- turtle
+- globe fish
+- orcas
+- espadon
+- raie
+- hippocampe
+- murène
+- crabe
+- pieuvre
+- ourson
+- narval
+- corail
+- barracuda
+
+
+Tropical Fish: Colorful and diverse, tropical fish like clownfish, angelfish, and parrotfish are common sights in coral reefs. They can serve as both obstacles and points of interest for players.
+
+Sharks: From graceful hammerheads to menacing great white sharks, these apex predators can add an element of danger and thrill to your game.
+
+Dolphins: Friendly and intelligent, dolphins can interact with the player, guiding them or performing tricks.
+
+Sea Turtles: Slow-moving and majestic, sea turtles can be both obstacles to avoid and creatures to rescue in distress.
+
+Jellyfish: These gelatinous creatures can be both beautiful and hazardous. Players might need to navigate through swarms of jellyfish without getting stung.
+
+Octopuses: Clever and elusive, octopuses can hide in crevices and use camouflage to surprise the player.
+
+Manta Rays: Graceful and enormous, manta rays can be peaceful creatures that players can swim alongside for bonuses.
+
+Squid: With their ink-spewing defense mechanism, squids can add an element of surprise and challenge.
+
+Seahorses: Tiny and delicate, seahorses can be collectible items that players can search for throughout the game.
+
+Lionfish: Known for their striking appearance and venomous spines, lionfish can be a threat players must avoid or a challenge to capture.
+
+Whales: Encounter majestic whales such as humpback or blue whales, allowing players to interact with these gentle giants.
+
+Moray Eels: These secretive creatures can hide in rocky crevices and surprise players as they explore.
+
+Nudibranchs: Colorful and tiny, nudibranchs can be hidden collectibles that players can search for to complete a collection.
+
+Giant Clams: Giant clams can be interactive elements in the game, requiring players to open them to reveal hidden treasures or secrets.
+
+Lobsters: These crustaceans can be obstacles that players need to avoid or opportunities for underwater scavenger hunts.
+
+Deep-Sea Creatures: Explore the mysterious depths of the ocean to encounter bizarre and bioluminescent creatures like giant squid, gulper eels, and anglerfish.
+
+Coral Reef Inhabitants: Include various creatures that call coral reefs home, such as sea anemones, starfish, and hermit crabs.
+
+Shipwrecks: While not creatures, underwater shipwrecks can serve as intriguing exploration points with hidden treasures and challenges.
+
+
+Garbage points :
+- Water bottle: Moderate difficulty; 30 points; Time: 3 seconds
+- Coffee cup: Moderate difficulty; 30 points; Time: 3 seconds
+- Cotton rod: Easy difficulty; 10 points; Time: 1 seconds
+- Cutlery: Moderate difficulty; 20 points; Time: 2 seconds
+- Food packaging: Moderate difficulty; 30 points; Time: 3 seconds
+- Lid: Easy difficulty; 10 points; Time: 1 seconds
+- Household cleaner bottle: Moderate difficulty; 40 points; Time: 4 seconds
+- Microplastic cloud: Hard difficulty; 100 points; Time: 10 seconds
+- Plastic bag: Easy difficulty; 20 points; Time: 2 seconds
+- Shampoo bottle: Moderate difficulty; 30 points; Time: 3 seconds
+- Soda can: Easy difficulty; 40 points; Time: 4 seconds
+- Stirrer: Easy difficulty; 10 points; Time: 1 seconds
+- Straw: Easy difficulty; 10 points; Time: 1 seconds
+- Toothbrush: Moderate difficulty; 30 points; Time: 3 seconds
+- Yogurt cup: Moderate difficulty; 40 points; Time: 4 seconds
+
+
+Depth :
+- Angel Fish: surface to 50 meters (164 feet)
+- Angler Fish: 200 meters (656 feet) to 2,000 meters (6,560 feet)
+- Clown Fish: surface to 15 meters (49 feet)
+- Corals: surface to 150 meters (492 feet)
+- Dolphin: surface to 300 meters (984 feet)
+- Exotic Fish: surface to 100 meters (328 feet)
+- Giant Squid: 300 meters (984 feet) to 1,000 meters (3,280 feet)
+- Globe Fish: surface to 1,000 meters (3,280 feet)
+- Hammerhead Shark: surface to 500 meters (1,640 feet)
+- Jellyfish: surface to 2,000 meters (6,560 feet)
+- Lionfish: surface to 50 meters (164 feet)
+- Moonfish: surface to 200 meters (656 feet)
+- Parrotfish: surface to 25 meters (82 feet)
+- Seahorse: surface to 20 meters (66 feet)
+- Sea Turtle: surface to 200 meters (656 feet)
+- Shark: surface to 2,000 meters (6,560 feet)
+- Tuna Fish: surface to 500 meters (1,640 feet)
+- Whale: surface to 1,000 meters (3,280 feet)
+- Whale Shark: surface to 1,000 meters (3,280 feet)
+
+
+Swimming Speed :
+- Angel Fish: 0.5 meters per second
+- Angler Fish: 0.2 meters per second
+- Clown Fish: 0.5 meters per second
+- Corals: stationary
+- Dolphin: 2 meters per second
+- Exotic Fish: 0.5 meters per second
+- Giant Squid: 1 meter per second
+- Globe Fish: 0.5 meters per second
+- Hammerhead Shark: 1.5 meters per second
+- Jellyfish: 0.2 meters per second
+- Lionfish: 0.5 meters per second
+- Moonfish: 0.5 meters per second
+- Parrotfish: 0.5 meters per second
+- Seahorse: 0.2 meters per second
+- Sea Turtle: 0.5 meters per second
+- Shark: 1.5 meters per second
+- Tuna Fish: 1.5 meters per second
+- Whale: 1 meter per second
+- Whale Shark: 1 meter per second

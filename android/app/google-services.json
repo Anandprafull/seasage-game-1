@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950280277458",
+    "project_id": "plastic-dive",
+    "storage_bucket": "plastic-dive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950280277458:android:59ed587b07c9d2f7118c0b",
+        "android_client_info": {
+          "package_name": "com.nomaddev.plasticdiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi1EIny4VCSK-NiTXfqliln0RPKPSUqM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
