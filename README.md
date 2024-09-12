@@ -1,3 +1,5 @@
+Build Info
+
 ## 🕹️ How to play the game?
 
 📱 On mobile, you can play the game by using the joystick to make the diver swim and use the collect button to collect the garbage.
